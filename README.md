@@ -1,9 +1,5 @@
 ### Welcome to sseoh47's github- Hello!👋
 <div align="center">
-  
-
-
-
 <br>
 Name : seohee Park (박서희)
 <br>
