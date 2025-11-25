@@ -4,8 +4,9 @@
  - 현재: 정보통신공학전공 & 컴퓨터공학전공 졸업
 
 ### *Project
- - .
- - .
+ - . 시각장애인을 위한 AI 비전 서포터
+ - . 시각장애인을 위한 버스탑승시스템
+ - . 신개념 팬 활동 플랫폼 Cheese
    
 ### *ECT
  - 2022 Daegu International Youth Camp
